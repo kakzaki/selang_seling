@@ -12,7 +12,7 @@ Add the following to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  selang_seling: ^0.0.1
+  selang_seling: any
 ```
 
 Then, run:

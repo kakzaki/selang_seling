@@ -1,6 +1,6 @@
 name: selang_seling
-description: A Dart plugin for interleaving multiple lists.
-version: 1.0.0
+description: A Dart Dart library for interleaving lists, providing flexible methods to combine elements from multiple lists based on customizable item counts.
+version: 1.0.1
 repository: https://github.com/kakzaki/selang_seling.git
 
 environment:
