@@ -2,6 +2,10 @@
 
 Selang Seling is a Dart library for interleaving lists, providing flexible methods to combine elements from multiple lists based on customizable item counts.
 
+[![pub package](https://img.shields.io/pub/v/selang_seling.svg)](https://pub.dev/packages/selang_seling)
+[![pub package](https://img.shields.io/twitter/follow/kakzaki_id.svg?colorA=1da1f2&colorB=&label=Follow%20on%20Twitter)](https://twitter.com/kakzaki_id)
+
+
 ## Installation
 
 Add the following to your `pubspec.yaml` file:
